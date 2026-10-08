@@ -10,7 +10,7 @@
     "bathrooms": 2,
     "size": 1200,
     "description": "A cozy 3-bedroom family house with modern amenities located in a quiet neighborhood of Adewole, Ilorin.",
-    "images": ["/assets/house1.jpg", "/assets/house2.jpg", "/assets/house3.jpg"]
+    "images": ["/assets/house1.jpg", "/assets/house2.jpg", "/assets/hero.jpg"]
   },
   {
     "property_id": 2,
@@ -23,7 +23,7 @@
     "bathrooms": 4,
     "size": 2500,
     "description": "A modern 5-bedroom duplex with luxury amenities, perfect for big families, situated in the serene area of Oke-Oyi, Ilorin.",
-    "images": ["/assets/house2.jpg", "/assets/house1.jpg", "/assets/house3.jpg"]
+    "images": ["/assets/house2.jpg", "/assets/house1.jpg", "/assets/hero.jpg"]
   },
   {
     "property_id": 3,
@@ -36,7 +36,7 @@
     "bathrooms": 1,
     "size": 800,
     "description": "A compact and affordable 2-bedroom bungalow ideal for small families or couples, located in Sabo, Ilorin.",
-    "images": ["/assets/house3.jpg", "/assets/house1.jpg", "/assets/house2.jpg"]
+    "images": ["/assets/hero.jpg", "/assets/house1.jpg", "/assets/house2.jpg"]
   },
   {
     "property_id": 4,
@@ -49,7 +49,7 @@
     "bathrooms": 6,
     "size": 5000,
     "description": "A stunning luxury mansion with top-of-the-line amenities for the ultimate comfort and style, located in Wuraola, Ilorin.",
-    "images": ["/assets/house1.jpg", "/assets/house3.jpg", "/assets/house2.jpg"]
+    "images": ["/assets/house1.jpg", "/assets/hero.jpg", "/assets/house2.jpg"]
   },
   {
     "property_id": 5,
@@ -62,7 +62,7 @@
     "bathrooms": 3,
     "size": 1800,
     "description": "A spacious semi-detached duplex in a peaceful estate, perfect for growing families in Adewole Estate, Ilorin.",
-    "images": ["/assets/house2.jpg", "/assets/house1.jpg", "/assets/house3.jpg"]
+    "images": ["/assets/house2.jpg", "/assets/house1.jpg", "/assets/hero.jpg"]
   },
   {
     "property_id": 6,
@@ -75,6 +75,6 @@
     "bathrooms": 1,
     "size": 400,
     "description": "A small yet cozy studio apartment ideal for singles or couples, located in the heart of Sobi, Ilorin.",
-    "images": ["/assets/house3.jpg", "/assets/house2.jpg", "/assets/house1.jpg"]
+    "images": ["/assets/hero.jpg", "/assets/house2.jpg", "/assets/house1.jpg"]
   }
 ]
